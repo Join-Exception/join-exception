@@ -1,5 +1,6 @@
 # 💫 About Me:
-I love pentesting<br>I love coding
+15 yo
+I love pentesting & coding
 
 
 ## 🌐 Socials:
