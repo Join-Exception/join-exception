@@ -1,3 +1,7 @@
+---
+[![](https://visitcount.itsvg.in/api?id=join-exception&icon=0&color=9)](https://visitcount.itsvg.in)
+#
+
 # 💫 About Me:
 15 yo<br>
 I love pentesting & coding
@@ -15,8 +19,3 @@ I love pentesting & coding
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=join-exception&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
