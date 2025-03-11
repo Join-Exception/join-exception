@@ -1,7 +1,3 @@
----
-[![](https://visitcount.itsvg.in/api?id=join-exception&icon=0&color=9)](https://visitcount.itsvg.in)
-#
-Joinexception
 # 💫 About Me:
 15 yo<br>
 I love pentesting & coding
