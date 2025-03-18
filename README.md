@@ -18,7 +18,6 @@ I love pentesting & coding
 | **IoT & Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
 
 # 📊 GitHub Stats:  
-![](https://github-readme-streak-stats.herokuapp.com/?user=join-exception&theme=blue_navy&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=join-exception&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
 
 # ✍️ Random Dev Quote  
