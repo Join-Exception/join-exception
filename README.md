@@ -1,6 +1,6 @@
 # 💫 About Me:  
-15 yo  
-I love pentesting & coding  
+16 yo  
+Homelabber/Pentester/Coder 
 
 ## 🌐 Socials:  
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@joinexception)  
